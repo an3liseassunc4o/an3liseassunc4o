@@ -1,16 +1,13 @@
-## Hi there 👋
+Boas Vindas ao meu perfil! 💜
 
-<!--
-**an3liseassunc4o/an3liseassunc4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Anelise Assunção
 
-Here are some ideas to get you started:
+-Estou estudando com o [Alura](https://www.alura.com.br).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estudo na escola E.E. Profª Maria José Moraes Salles.
+
+-Estou aprendendo e desenvolvendo a linguagem Java Script.
+
+-Utilizo esse espaço para organizar e compartilhar meus projetos.
+
+
