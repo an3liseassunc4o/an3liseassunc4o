@@ -6,8 +6,6 @@ Meu nome é Anelise Assunção
 
 -Estudo na escola E.E. Profª Maria José Moraes Salles.
 
--Estou aprendendo e desenvolvendo a linguagem Java Script.
-
 -Utilizo esse espaço para organizar e compartilhar meus projetos.
 
 ### pode entrar em contato comigo por😎
